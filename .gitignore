@@ -5,7 +5,7 @@ __pycache__
 #finetune_demo/data
 finetune_demo/formatted_data
 ToolAlpaca/
-AdvertiseGen/
+#AdvertiseGen/
 *.gz
 *.idea
 .DS_Store
